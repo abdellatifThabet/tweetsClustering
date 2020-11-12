@@ -41,4 +41,4 @@ tqdm==4.51.0
 
 webencodings==0.5.1
 wordcloud==1.8.1
-
+tweepy==3.9.0
