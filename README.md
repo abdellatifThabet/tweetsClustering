@@ -9,7 +9,7 @@
 
 This project aims to help twitter users to know every thing in his twitter home page without reading all tweets.
 
-KMeans clustering is used here to classify similar tweets together making the user able to read all topic with realy few tweets.
+KMeans clustering is used here to classify similar tweets together making the user able to read all topics with realy few tweets.
 
 
 ##### The project is splitted into three main parts:&nbsp;
