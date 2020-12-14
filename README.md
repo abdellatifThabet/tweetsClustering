@@ -19,7 +19,7 @@ KMeans clustering is used here to classify similar tweets together making the us
 ###### The loaded data need to be processed before we pass it to the model, we'll clean tweets by removing urls,hashtags,emojis..
 ###### NLP will be a step further to preapre data for building the model. 
 ###### 3.Model Building :
-###### Final step will be clussifying tweets into clusters using KMEANS classifier from scratch.
+###### Final step will be classifying tweets into clusters using KMEANS classifier from scratch.
 
 
 #### Project Gif Image
